@@ -87,7 +87,9 @@ li{
     font-size: 18px;
 	padding: 20px;
 }
-
+#content-box:hover {
+	box-shadow: 0 1px 5px 1px white;
+}
 .item-name{
 	text-align: center;
 	font-size: 20px;
